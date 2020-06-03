@@ -37,7 +37,7 @@ client.on("message", (message) => {
 });
 
 // login to Discord with your app's token
-client.login("NzE2MjE4NjAzNzMyNTk4ODM0.XtIk4Q.7yAn9LWq9zDRxz8ZR-TrAyc92AQ");
+client.login("TOKEN");
 
 // client.on("guildMemberAdd", (member) => {
 //     // Send the message to a designated channel on a server:
